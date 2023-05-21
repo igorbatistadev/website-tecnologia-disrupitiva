@@ -179,7 +179,7 @@ nav ul li a:hover {
 
 .header {
   position: relative;
-  background: url('/imgs/rede-5g-beneficios.jpg') no-repeat center top fixed;
+  background: url("imgs/rede-5g-beneficios.jpg") no-repeat center top fixed;
   background-size: cover;
   background-position: center; 
   height: 450px;
